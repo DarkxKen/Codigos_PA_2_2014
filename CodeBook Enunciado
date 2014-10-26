@@ -1,0 +1,16 @@
+Dado la siguiente codificación:
+
+0 -> O
+1 -> I
+2 -> Z
+3 -> E
+4 -> A
+5 -> S
+6 -> G
+7 -> T
+8 -> B
+9 -> P
+
+1.- Implemente una clase Code, que nos ayude a manejar estas asosiaciones.
+2.- Implemente una clase CodeBook, que contenga todos los códigos mostrados.
+3.- Cree un main que pida por teclado una frase, y la codifique según su CodeBook.
