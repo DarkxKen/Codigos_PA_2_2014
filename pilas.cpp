@@ -47,7 +47,7 @@ public:
     }
     void imprimir() {
         Nodo *aux = top;
-        while(aux) {
+        while(aux) {        // Mientras exista
             cout << aux->getNum() << endl;
             aux = aux->getNext();
         }
